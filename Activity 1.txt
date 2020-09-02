@@ -1,0 +1,6 @@
+Function Main
+    Declare String Name
+    
+    Assign Name = "Isaiah Prowell-Griffin"
+    Output "Hello " & name
+End
